@@ -7,8 +7,10 @@ AppShop.jsx脚本文件可以将PSD文件保存为Android和iOS的应用图标�
 
 ## 使用方法
 1. 下载文件，将文件(AppShop.jsx)拷贝到PhotoShop的脚本文件所在目录，即可添加到脚本菜单
-  1. 如在本人Mac OSX操作系统下，脚本文件目录为: 应用程序---Adobe PhotoShop CC---Presets---Scripts
-  2. 打开PhotoShop, 依次点击：文件---脚本---AppShop，即可运行脚本。
+  1. 如在本人Mac OSX操作系统下，脚本文件目录为: 应用程序---Adobe PhotoShop CC---Presets---Scripts   
+    ![Scripts](./docs/assets/scripts.png)
+  2. 打开PhotoShop, 依次点击：文件---脚本---AppShop，即可运行脚本。   
+    ![Run](./docs/assets/location.png)
   
 2. 下载文件，放置于任意目录，使用时候执行即可
   1. 下载文件，放置于任意目录，如桌面
@@ -21,6 +23,7 @@ AppShop.jsx脚本文件可以将PSD文件保存为Android和iOS的应用图标�
 1. [PhotoShop Scripting Guide](./Resources/photoshop_scripting_guide.pdf)
 2. [PhotoShop Script JavaScript Ref](./Resources/photoshop_scriptref_js.pdf)
 3. [PhotoShop ToolsGuide](./Resources/JavaScriptToolsGuide_CS5.pdf)
+4. [谁说设计师不会写代码](http://mxd.tencent.com/%E8%B0%81%E8%AF%B4%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B8%8D%E4%BC%9A%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%9F-photoshop%E8%84%9A%E6%9C%AC%E8%AF%AD%E8%A8%80%E7%AE%80%E4%BB%8B%E3%80%90%E8%AF%91%E3%80%91)
 
 ## License
 BSD License
