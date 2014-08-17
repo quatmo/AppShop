@@ -189,7 +189,7 @@ function handleImage(config) {
 function handleImageToAndroid(config) {
   var result = true;
   // Android 应用图标与启动屏大小
-  var iconSize = [30, 40, 60, 80];
+  var iconSize = [48, 72, 96, 144];
   var launchSize = [
     {
       width: 320,
