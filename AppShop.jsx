@@ -315,10 +315,9 @@ function generateImage(params) {
   var destFile = new File(path + '/' + params.fileName + '.png');
   mkdirs(destFile.parent);
 
-  var f = null;
   try {
-    f = doc.saveAs(destFile, options, true, Extension.LOWERCASE);
-    result = !!f.exists;
+    doc.saveAs(destFile, options, true, Extension.LOWERCASE);
+    result = true;
   } catch (err) {
     alert(err);
     result = false;
